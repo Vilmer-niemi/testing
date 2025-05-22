@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+import "./global.css";
+import "./dist/output.css";
 
 // Main App component
 const App: React.FC = () => {
